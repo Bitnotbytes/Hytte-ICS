@@ -1,0 +1,5 @@
+storage_state.json
+calendar_debug.txt
+__pycache__/
+*.pyc
+.venv/

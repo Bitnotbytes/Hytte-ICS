@@ -1,0 +1,4 @@
+playwright>=1.44
+# Optional, but recommended for anti-detection. The script also works without it
+# (falls back to a manual webdriver patch if the package is missing).
+playwright-stealth>=1.0.6
